@@ -3,10 +3,10 @@
 ## About
 This is our (B128 Team 8) mini-project for SC1015 Data Science & Artificial Intelligence.<br>
 The aim of our project is to create a model that predicts whether a student is likely to drop out of school based on certain variables. The purpose of predicting the main factors behind a student dropping out is to help schools better identify at-risk students and provide interventions to improve student retention.<br>
-Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Our source code can be viewed [here]().
+Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Our source code can be viewed here [WIP]().
 
 ## Contributors
-- @nicholasbay
+- Nicholas (@nicholasbay)
 - Qian Yu
 - Ayman
 
@@ -44,10 +44,10 @@ Our project was completed in several stages, including data processing, model se
 After evaluating several models, the best model was able to predict student drop out with a precision of 0.77992 and F-score of 0.77783. The most important feature for predicting student dropout was "Tuition fees up to date".
 
 ## What did we learn from this project?
-- Usage of Chi-Square Test to determine the association between two categorical variables
+- Concepts of Chi-Square Test, Precision, Recall, and F-score
 - Handling imbalanced classes using the ```stratify``` parameter in ```train_test_split```
 - Hyperparameter tuning
-- Random Forest model
+- Random Forest Classifier from sklearn
 
 ## References
 1. Realinho, V., Machado, J., Baptista, L., &amp; Martins, M. V. (2022). Predicting student dropout and academic success. Data, 7(11). https://doi.org/10.3390/data7110146
