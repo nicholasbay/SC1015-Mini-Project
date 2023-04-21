@@ -50,4 +50,6 @@ After evaluating several models, the best model was able to predict student drop
 - Random Forest model
 
 ## References
-WIP
+1. Realinho, V., Machado, J., Baptista, L., &amp; Martins, M. V. (2022). Predicting student dropout and academic success. Data, 7(11). https://doi.org/10.3390/data7110146
+
+2. Hashmi, F. (2021) How to measure the correlation between two categorical variables in Python, Thinking Neuron. Available at: https://thinkingneuron.com/how-to-measure-the-correlation-between-two-categorical-variables-in-python/
