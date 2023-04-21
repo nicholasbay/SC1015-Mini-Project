@@ -3,7 +3,9 @@
 ## About
 This is our (B128 Team 8) mini-project for SC1015 Data Science & Artificial Intelligence.<br>
 The aim of our project is to create a model that predicts whether a student is likely to drop out of school based on certain variables. The purpose of predicting the main factors behind a student dropping out is to help schools better identify at-risk students and provide interventions to improve student retention.<br>
-Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Our source code can be viewed [here](https://github.com/nicholasbay/SC1015-Mini-Project/blob/main/dropout-analysis.ipynb).
+Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).<br>
+Our source code can be viewed [here](https://github.com/nicholasbay/SC1015-Mini-Project/blob/main/dropout-analysis.ipynb).<br>
+Our project video can be viewed [here](https://youtu.be/Jx0NQ2h7_-s).
 
 ## Contributors
 - Nicholas (@nicholasbay)
@@ -11,7 +13,7 @@ Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevast
 - Ayman
 
 ## Problem Definition
-To predict whehter a student will drop out based on a combination of the following variables:
+To predict whether a student will drop out based on a combination of the following variables:
 1. whether they are paying their tuition fees timely ("Tuition fees up to date")
 2. whether they are a scholarship holder ("Scholarship holder")
 3. their gender ("Gender")
