@@ -3,7 +3,7 @@
 ## About
 This is our (B128 Team 8) mini-project for SC1015 Data Science & Artificial Intelligence.<br>
 The aim of our project is to create a model that predicts whether a student is likely to drop out of school based on certain variables. The purpose of predicting the main factors behind a student dropping out is to help schools better identify at-risk students and provide interventions to improve student retention.<br>
-Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Our source code can be viewed here [WIP]().
+Our dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Our source code can be viewed [here](https://github.com/nicholasbay/SC1015-Mini-Project/blob/main/dropout-analysis.ipynb).
 
 ## Contributors
 - Nicholas (@nicholasbay)
