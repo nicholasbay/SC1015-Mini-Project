@@ -47,7 +47,7 @@ After evaluating several models, the best model was able to predict student drop
 
 ## What did we learn from this project?
 - Concepts of Chi-Square Test, Precision, Recall, and F-score
-- Handling imbalanced classes using the ```stratify``` parameter in ```train_test_split```
+- Handling imbalanced classes using the `stratify` parameter in `train_test_split`
 - Hyperparameter tuning
 - Random Forest Classifier from sklearn
 
